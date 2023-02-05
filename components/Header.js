@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div>
+    <div className="bg-[url('/bg.png')]">
       <nav className="p-8">
         <div className="navbar-container flex items-center justify-between">
           <div className="flex jusfity-center items-center">
