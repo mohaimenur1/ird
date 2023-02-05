@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="bg-[url('/bg.png')]">
       <main className="grid sm:grid-cols-1 md:grid-cols-2 mx-10">
         <div className="first-section flex flex-col justify-center">
-          <h2 className="font-bold md:text-6xl sm:text-3xl mb-10 mx-3">
+          <h2 className="font-bold text-6xl  mb-10 mx-3">
             Healthy in side <br></br>
             <span className="text-purple-500">fresh</span> out side
           </h2>
